@@ -1,0 +1,386 @@
+instr[0] = 0
+instr[1] = 0
+instr[2] = 0
+instr[3] = 0
+instr[4] = 0
+instr[5] = 0
+instr[6] = 0
+instr[7] = 0
+instr[8] = 0
+instr[9] = 0
+instr[10] = 0
+instr[11] = 0
+instr[12] = 0
+instr[13] = 0
+instr[14] = 0
+instr[15] = 0
+instr[16] = 0
+instr[17] = 0
+instr[18] = 0
+instr[19] = 0
+instr[20] = 0
+instr[21] = 0
+instr[22] = 0
+instr[23] = 0
+instr[24] = 0
+instr[25] = 0
+instr[26] = 0
+instr[27] = 0
+instr[28] = 0
+instr[29] = 0
+instr[30] = 0
+instr[31] = 0
+instr[32] = b
+instr[33] = f
+instr[34] = 0
+instr[35] = 0
+instr[36] = 0
+instr[37] = 0
+instr[38] = 0
+instr[39] = 0
+instr[40] = 0
+instr[41] = 0
+instr[42] = 0
+instr[43] = 0
+instr[44] = 0
+instr[45] = 0
+instr[46] = 0
+instr[47] = 0
+instr[48] = 0
+instr[49] = 0
+instr[50] = 0
+instr[51] = 0
+instr[52] = 0
+instr[53] = 0
+instr[54] = 0
+instr[55] = 0
+instr[56] = 0
+instr[57] = 0
+instr[58] = 0
+instr[59] = 0
+instr[60] = 0
+instr[61] = 0
+instr[62] = 0
+instr[63] = 0
+instr[64] = 0
+instr[65] = 0
+instr[66] = 0
+instr[67] = 0
+instr[68] = 0
+instr[69] = 0
+instr[70] = 0
+instr[71] = 0
+instr[72] = 0
+instr[73] = 0
+instr[74] = 0
+instr[75] = 0
+instr[76] = 0
+instr[77] = 0
+instr[78] = 0
+instr[79] = 0
+instr[80] = 0
+instr[81] = 0
+instr[82] = 0
+instr[83] = 0
+instr[84] = 0
+instr[85] = 0
+instr[86] = 0
+instr[87] = 0
+instr[88] = 0
+instr[89] = 0
+instr[90] = 0
+instr[91] = 0
+instr[92] = 0
+instr[93] = 0
+instr[94] = 0
+instr[95] = 0
+instr[96] = 0
+instr[97] = 0
+instr[98] = 0
+instr[99] = 0
+instr[100] = 0
+instr[101] = 0
+instr[102] = 0
+instr[103] = 0
+instr[104] = 0
+instr[105] = 0
+instr[106] = 0
+instr[107] = 0
+instr[108] = 0
+instr[109] = 0
+instr[110] = 0
+instr[111] = 0
+instr[112] = 0
+instr[113] = 0
+instr[114] = 0
+instr[115] = 0
+instr[116] = 0
+instr[117] = 0
+instr[118] = 0
+instr[119] = 0
+instr[120] = 0
+instr[121] = 0
+instr[122] = 0
+instr[123] = 0
+instr[124] = 0
+instr[125] = 0
+instr[126] = 0
+instr[127] = 0
+instr[128] = 0
+instr[129] = 0
+instr[130] = 0
+instr[131] = 0
+instr[132] = 0
+instr[133] = 0
+instr[134] = 0
+instr[135] = 0
+instr[136] = 0
+instr[137] = 0
+instr[138] = 0
+instr[139] = 0
+instr[140] = 0
+instr[141] = 0
+instr[142] = 0
+instr[143] = 0
+instr[144] = 0
+instr[145] = 0
+instr[146] = 0
+instr[147] = 0
+instr[148] = 0
+instr[149] = 0
+instr[150] = 0
+instr[151] = 0
+instr[152] = 0
+instr[153] = 0
+instr[154] = 0
+instr[155] = 0
+instr[156] = 0
+instr[157] = 0
+instr[158] = 0
+instr[159] = 0
+instr[160] = 0
+instr[161] = 0
+instr[162] = 0
+instr[163] = 0
+instr[164] = 0
+instr[165] = 0
+instr[166] = 0
+instr[167] = 0
+instr[168] = 0
+instr[169] = 0
+instr[170] = 0
+instr[171] = 0
+instr[172] = 0
+instr[173] = 0
+instr[174] = 0
+instr[175] = 0
+instr[176] = 0
+instr[177] = 0
+instr[178] = 0
+instr[179] = 0
+instr[180] = 0
+instr[181] = 0
+instr[182] = 0
+instr[183] = 0
+instr[184] = 0
+instr[185] = 0
+instr[186] = 0
+instr[187] = 0
+instr[188] = 0
+instr[189] = 0
+instr[190] = 0
+instr[191] = 0
+instr[192] = 0
+instr[193] = 0
+instr[194] = 0
+instr[195] = 0
+instr[196] = 0
+instr[197] = 0
+instr[198] = 0
+instr[199] = 0
+instr[200] = 0
+instr[201] = 0
+instr[202] = 0
+instr[203] = 0
+instr[204] = 0
+instr[205] = 0
+instr[206] = 0
+instr[207] = 0
+instr[208] = 0
+instr[209] = 0
+instr[210] = 0
+instr[211] = 0
+instr[212] = 0
+instr[213] = 0
+instr[214] = 0
+instr[215] = 0
+instr[216] = 0
+instr[217] = 0
+instr[218] = 0
+instr[219] = 0
+instr[220] = 0
+instr[221] = 0
+instr[222] = 0
+instr[223] = 0
+instr[224] = 0
+instr[225] = 0
+instr[226] = 0
+instr[227] = 0
+instr[228] = 0
+instr[229] = 0
+instr[230] = 0
+instr[231] = 0
+instr[232] = 0
+instr[233] = 0
+instr[234] = 0
+instr[235] = 0
+instr[236] = 0
+instr[237] = 0
+instr[238] = 0
+instr[239] = 0
+instr[240] = 0
+instr[241] = 0
+instr[242] = 0
+instr[243] = 0
+instr[244] = 0
+instr[245] = 0
+instr[246] = 0
+instr[247] = 0
+instr[248] = 0
+instr[249] = 0
+instr[250] = 0
+instr[251] = 0
+instr[252] = 0
+instr[253] = 0
+instr[254] = 0
+instr[255] = 0
+
+
+List FileKey 
+----------------------------------------------------------------------
+C1      C2      C3      C4    || C5
+--------------------------------------------------------------
+C1:  Address (decimal) of instruction in source file. 
+C2:  Segment (code or data) and address (in code or data segment) 
+       of inforation associated with current linte. Note that not all
+       source lines will contain information in this field.  
+C3:  Opcode bits (this field only appears for valid instructions.
+C4:  Data field; lists data for labels and assorted directives. 
+C5:  Raw line from source code.
+----------------------------------------------------------------------
+
+
+(0001)                            || ;--------------------------------------------------------------------
+(0002)                            || ;- Programmer: Jeff Gerfen
+(0003)                            || ;- Date: 2011.01.09
+(0004)                            || ;- 
+(0005)                            || ;- Program Functionality:  Initialize R10 and R11 with decimal 5
+(0006)                            || ;- and decimal 100 respectively, add the two values and place 
+(0007)                            || ;- the result back into R10.  Then add 20 decimal to this sum 
+(0008)                            || ;- placing the result back into R10.  Move this result from R10
+(0009)                            || ;- to R20 and then output this result to port 0x100.  
+(0010)                            || ;- This program should be stored at address 0xA0 in instruction 
+(0011)                            || ;- memory.
+(0012)                            || ;--------------------------------------------------------------------
+(0013)                            || 
+(0014)                            || 
+(0015)                            || ;--------------------------------------------------------------------
+(0016)                            || ;- Port Constants
+(0017)                            || ;--------------------------------------------------------------------
+(0018)                       016  || .EQU LED_PORT = 0x10            ; port for LED output --- OUTOUT
+(0019)                            || ;--------------------------------------------------------------------
+(0020)                            || 
+(0021)                            || 
+(0022)                            || ;--------------------------------------------------------------------
+(0023)                            || ;- Memory Designation Constants
+(0024)                            || ;--------------------------------------------------------------------
+(0025)                            || .DSEG
+(0026)                       000  || .ORG     0x00
+(0027)                            || ;--------------------------------------------------------------------
+(0028)                            ||  
+(0029)                            || 
+(0030)                            || ;--------------------------------------------------------------------
+(0031)                            || ;- Main program
+(0032)                            || ;--------------------------------------------------------------------
+(0033)                            ||   
+(0034)                            || .CSEG
+(0035)                       064  || .ORG         0x40           
+(0036)                            || 
+(0037)  CS-0x040  0x37DFC  0x040  || jumpy0:      MOV     R29,0XFC
+(0038)  CS-0x041  0x29D01  0x041  || jumpy1:      ADD     R29,0X01
+(0039)  CS-0x042  0x37EFA         ||              MOV     R30,0xFA
+(0040)  CS-0x043  0x37F05         ||              MOV     R31,0x05
+(0041)  CS-0x044  0x01EFA         ||              EXOR    R30,R31
+(0042)                            || 
+(0043)  CS-0x045  0x03EEA         ||              SUB     R30,R29
+(0044)  CS-0x046  0x0820B         ||              BRNE    jumpy1
+(0045)                            || 
+(0046)                            ||                               
+
+
+
+
+
+Symbol Table Key 
+----------------------------------------------------------------------
+C1             C2     C3      ||  C4+
+-------------  ----   ----        -------
+C1:  name of symbol
+C2:  the value of symbol 
+C3:  source code line number where symbol defined
+C4+: source code line number of where symbol is referenced 
+----------------------------------------------------------------------
+
+
+-- Labels
+------------------------------------------------------------ 
+JUMPY0         0x040   (0037)  ||  
+JUMPY1         0x041   (0038)  ||  0044 
+
+
+-- Directives: .BYTE
+------------------------------------------------------------ 
+--> No ".BYTE" directives used
+
+
+-- Directives: .EQU
+------------------------------------------------------------ 
+LED_PORT       0x010   (0018)  ||  
+
+
+-- Directives: .DEF
+------------------------------------------------------------ 
+--> No ".DEF" directives used
+
+
+-- Directives: .DB
+------------------------------------------------------------ 
+--> No ".DB" directives used
+
+
+|------------------------------------------------------|
+| Data Segment Dump                                    |
+|------------------------------------------------------|
+| Key: - = not defined                                 |
+|     ? = not initialized                              |
+|     value = defined and initialized                  |
+|-------------------------------------------------------
+|   |  0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  |
+|-------------------------------------------------------
+| 0 |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  |
+| 1 |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  |
+| 2 |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  |
+| 3 |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  |
+| 4 |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  |
+| 5 |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  |
+| 6 |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  |
+| 7 |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  |
+| 8 |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  |
+| 9 |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  |
+| A |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  |
+| B |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  |
+| C |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  |
+| D |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  |
+| E |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  |
+| F |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  |
+--------------------------------------------------------
